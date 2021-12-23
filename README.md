@@ -47,6 +47,8 @@ Based on this paper, we implemented UpBit and compared it to our implementation 
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
+We used PyCharm to conduct our tests, /ucb, /upbit for algorithms, /tests for running testing scripts, and rest of the files for compression for memory usage improvement as well as creating and visualizing data.
+
 
 <!-- CONTACT -->
 ## Contact
@@ -56,11 +58,11 @@ Daniel Park - [@h1yung][linkedin-url] - h1yungpark@gmail.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
+- [Original Paper][https://stratos.seas.harvard.edu/publications/upbit-scalable-memory-updatable-bitmap-indexing]
 - Winston Chen
 - Gregory Chininis
 - Daniel Hooks
 - Michael Lee
-- 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
