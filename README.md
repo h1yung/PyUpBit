@@ -25,11 +25,11 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project"></a>About The Project</li>
-    <li><a href="#usage"></a>Usage</li>
-	<!-- <li><a href="#license">License</a></li> -->
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+	  <li><a href="#about-the-project">About The Project</a></li>
+	  <li><a href="#usage">Usage</a></li>
+	  <!-- <li><a href="#license">License</a></li> -->
+	  <li><a href="#contact">Contact</a></li>
+	  <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
