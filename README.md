@@ -58,7 +58,7 @@ Daniel Park - [@h1yung][linkedin-url] - h1yungpark@gmail.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-- [Original Paper][https://stratos.seas.harvard.edu/publications/upbit-scalable-memory-updatable-bitmap-indexing]
+- <a href="https://stratos.seas.harvard.edu/publications/upbit-scalable-memory-updatable-bitmap-indexing">Original Paper</a>
 - Winston Chen
 - Gregory Chininis
 - Daniel Hooks
